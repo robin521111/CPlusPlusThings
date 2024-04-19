@@ -21,7 +21,7 @@ public:
     }
 
     ~Animal() {
-        std::cout << "~Animal() is called" << std::endl;
+    std::cout << "~Animal() is called" << std::endl;
     }
 };
 

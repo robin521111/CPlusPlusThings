@@ -10,7 +10,8 @@ int main(int argc, char const *argv[]) {
   hanoi(disks, 'A', 'B', 'C');
   
   return 0;
-}
+
+
 
 void move(char A, char B) { cout << A << "->" << B << endl; }
 

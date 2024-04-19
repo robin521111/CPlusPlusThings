@@ -9,8 +9,7 @@
  */
 
 /**
- * @brief 抽象类
- */
+ * @brief 抽象类 */
 class AbstractBase {
   // Data members of class
 public:
