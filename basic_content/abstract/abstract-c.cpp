@@ -2,7 +2,7 @@ class AbstractBase{
     public:
         virtual void show() = 0;
 };
-从URL中获取电影信息, 利用list和dict存储电影信
+/**从URL中获取电影信息, 利用list和dict存储电影信
 
 docker run -d --name=ghost \
 -p 2368:2368 \

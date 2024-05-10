@@ -1,5 +1,6 @@
 /* 重载()的时钟.cpp */
 #include <iostream>
+#include <iostream>
 using namespace std;
 class Time {
 private:
